@@ -5,6 +5,7 @@ using namespace std;
 void main()
 {
 	int n;
+	int sum;
 	cout << "Nhap so can kiem tra: ";
 	cin >> n;
 	for (int i = 1; i < n; i++)
@@ -20,6 +21,6 @@ void main()
 	}
 	else
 	{
-		cout << "Day khong phai la so hoang hao !!"
+		cout << "Day khong phai la so hoang hao !!";
 	}
 }
