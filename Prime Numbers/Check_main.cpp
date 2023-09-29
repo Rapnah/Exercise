@@ -8,7 +8,7 @@ void main()
 	int count;
 	cout << "Nhap So Can Kiem Tra: ";
 	cin >> i;
-	for (int n = 1; n < i; n++)
+	for (int n = 1; n <= i; n++)
 	{
 		if (i % n == 0)
 		{
