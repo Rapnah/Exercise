@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int m,n;
-    int GDC;
+    int LCM;
     cout << "Nhap so thu 1: \n";
     cin  >> m;
     cout << "Nhap so thu 2: \n";
@@ -18,8 +18,8 @@ int main()
         {m-=n;}
     }
     if (n==0)
-    {GDC = m;}
+    {LCM = m;}
     else
-    {GDC=n;}
-    cout<<"Uoc chung lon nhat: "<<GDC;
+    {LCM=n;}
+    cout<<"Uoc chung lon nhat: "<<LCM;
 }
