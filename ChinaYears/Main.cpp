@@ -3,7 +3,7 @@
 using namespace std;
 
 char canchar[][10]={"Canh","Tan","Nham","Quy","Giap","At","Binh","Dinh","Mau","Ky"};
-char chichar[][12]={"Than","Dau","Tuat","Hoi","Ty","Suu","Dan","Meo","Thin","Ty","Ngo","Mui"};
+char chichar[][12]={"Than","Dau","Tuat","Hoi","Ty","Suu","Dan","Mao","Thin","Ty","Ngo","Mui"};
 
 int main()
 {
